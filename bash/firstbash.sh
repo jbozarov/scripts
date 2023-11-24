@@ -1,6 +1,12 @@
 #!/bin/bash
-echo 'hello bash'
 
-name="Bob"
+echo "please enter your name"
 
-echo name
+read name 
+
+echo "Hello $name!"
+
+echo 'salom'
+
+
+echo "end of script"e
